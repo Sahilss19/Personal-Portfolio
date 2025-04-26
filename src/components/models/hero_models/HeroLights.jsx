@@ -1,5 +1,6 @@
 import * as THREE from "three";
 
+
 const HeroLights = () => (
   <>
     {/* lamp's light */}
