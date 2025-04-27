@@ -51,7 +51,7 @@ const Hero = () => {
             </div>
 
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Hi, I’m Sahil, a developer from India. I specialize in creating
+              Hi, I’m Sahil, a developer from Punjab , India. I specialize in creating
               beautiful and functional websites and applications. I’m passionate
               code.
             </p>
